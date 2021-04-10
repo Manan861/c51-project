@@ -1,0 +1,25 @@
+.header{
+   display:flex;
+   flex-wrap:wrap;
+   justify-content: space-evenly;
+   background-color:#f5f5dc;
+}
+.grid{
+   display:flex;
+   flex-wrap:wrap-reverse;
+   justify-content: space-around;
+   align-items: baseline;
+   margin: 20px ; 
+}
+.origami{
+   position: relative;
+   background-color: 00ffff;
+   padding: 20px;
+   margin:25px;
+   font-family: fantasy;
+}
+body{
+   margin: 0px;
+   background-color: f445ff;
+
+}
